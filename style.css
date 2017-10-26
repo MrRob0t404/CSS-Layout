@@ -1,0 +1,41 @@
+#navigation {
+    margin-left: -40px;
+}
+
+#navigation ul {
+    margin-bottom: -20px;
+}
+
+#navigation li {
+    display: inline-block;
+    border: 2px solid darkgray;
+    padding: 4px;
+    background-color: darkgrey;
+    margin-right: 10px;
+}
+
+#case {
+    background-color: lightgrey;
+    height: 11em;
+    width: 27em;
+    padding: 5px 0 0 5px;
+    margin-top: 20px;
+}
+
+#footer {
+    background-color: darkgray;
+    height: 5em;
+    width: 27em;
+    margin-top: 0;
+    padding:1em 0 0 5px;
+}
+
+#footer ul {
+    padding-left: 0; 
+    margin: 0 0 0 0;
+}
+
+#footer li {
+    display: inline-block;
+    text-align: left;
+}
